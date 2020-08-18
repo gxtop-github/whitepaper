@@ -52,3 +52,75 @@ GXT补充说明
 本文档只用于GXTOP团队对于节点共享平台业务和GXTOP代币GXT 功能的规划声明。GXTOP团队可能会根据行业发展和相关法律、行政法规、地方性法规和部门规章的要求调整实际业务的规划，本文档并不构成买卖GXTOP代币或其相关联公司、企业股权、债权或所有者权益的法律意见书。任何类似的提议或征价将在应用相应证券法和其他相关法律法规下进行。本文档信息或分析不构成投资意见或投资建议，不构成不组成也不应理解为任何民事要约，民事允诺，民事行为或民事合约。
 GXTOP 代币为 GXTOP 算力共享平台发行的虚拟代币，GXTOP代币持有者可以在GXTOP 节点平台兑换积分的各项服务，GXTOP 团队可能会根据业务发展需要增加或调整GXTOP 代币所能兑换的服务内容，GXTOP 代币的价格会通过市场交易决定，用户在购买及持有 GXTOP 代币可能因 GXTOP 代币的价格上涨而获利，也可能会因为价格下跌而遭受损失，GXTOP 团队对 GXTOP 代币的未来价格不做任何的承诺及担保。
 GXTOP 团队明确声明 GXTOP 用户应了解 GXTOP 节点平台所代投项目的风险，个人投资者或机构投资者参与 GXTOP 代币投资即表示了解并接受该项目风险，并愿意为此承担一切相应后果及风险，GXTOP 明确表示不会承担任何 GXTOP 所投项目造成的直接或间接的损失，包括因用户自身操作造成的经济利益损失；因用户自身错误、疏忽或不准确信息造成的经济利益损失；因用户交易区块链产品带来的损失及由此导致的经济利益损失；因以太坊区块链的任何故障所造成的经济利益损失；因不可抗力、不可预见的风险所造成的经济利益损失；因监管区块链技术的法律法规所造成的经济利益损失。
+
+
+
+支持使用数字货币进行个人用户之间的支付，结算。 进行收款，付款以及查询功能
+支持自动计算实时汇率显示，结算/支持货币间一间转换
+支持自动生成订单，并直接发送到对方账户中等待操作，操作记录可查
+支持使用中心化钱包，及去中心化钱包随时随地进行支付
+用户可以通过GXCpay的网页端或App享受全新的支付体验，并通过支付来获得一定的激励，GXCpay将在NYDFS的白名单下上线更多的数字货币，同时也会使用NYDFS的白名单稳定币来进行结算。
+
+
+关于GXCpay内 GXC Staking
+GXTOP的GXC Staking钱包将对外公开，日期统一为90天，将在每月3号前（00:00 3rd EST）开启新一轮Staking及收益发放。
+
+参与App内的Staking，用户会收益额外5%的GXC，比如90天的Staking的收益为100GXC，则用户实际收到 105GXC。同时用户将收到原GXC收益1：1空投的GXT，比如90天的Staking的收益为100GXC，则用户实际在收到105GXC外会同时收到 100GXT 收益。 
+
+每人每期Staking上限为4 ,000GXC。
+
+
+
+关于GXCpay用户手续费
+GXCpay手续费为双方0.1%。当用户发出付款订单的时候，假设为1,000GXC 的订单，将先冻结 账户中的1GXC。 如果对方付款成功，则实际扣除手续费。
+
+消耗GXC手续费将奖励GXT。奖励的比例为每消耗1GXC，奖励50GXT。（GXC：GXT=1:50）
+
+每奖励出200万GXT，手续费奖励GXT数额将减半。
+
+
+关于GXCpay等级功能
+	交易金额达到（单位GXC）	手续费减：  
+海藻 	   5,000
+虾 	   25,000
+螃蟹       65,000
+章鱼       120,000
+鱼            200,000                      	 3%
+海豚        300,000                     	    4%
+鲨鱼        550,000                       	    5%
+鲸鱼        1,000,000                   	    6%
+座头鲸    3,000,000                  	    7%
+
+额外奖励：
+首个达到海豚的用户将被奖励50GXC，
+首个达到鲨鱼的用户将被奖励300 GXC，
+首个达到鲸鱼的用户将被奖励600 GXC，
+首个达到座头鲸的用户将被奖励800 GXC.
+
+
+4企业账户的了解更多
+
+目前正在开发中
+我们目前和SUNY-Stony Brook University的Business Blockchain Lab紧密的合作，将打造合规的GXCpay支付系统，GXCpay将构建企业间区块链支付的生态，将为企业间的数字货币支付提供方便。致力于改变企业和人们在全球范围内的数字货币支付方式，我们在支持企业间的交易同时，也会支持用户与企业间的支付体验。值得庆幸的是，美国纽约州NYDFS也正在接触SUNY高校以支持并落地数字货币金融服务项目。 （https://www.coindesk.com/new-york-moves-to-lure-crypto-startups-as-bitlicense-turns-five）GXCpay有幸被SUNY-Stony Brook University Business Blockchain Lab孵化，并在未来会给学校中对区块链及数字货币支付感兴趣的同学一个使用的样例。
+
+关于我们：
+
+信彭（GXTOP）以公信节点的身份为起点，目前核心成员为北美的公信宝支持者和生态相关伙伴。以社区的形式在为公信宝项目做出积极贡献，为公信宝生态增值的同时，也进化成了一个独立的链上去中心化金融（DeFi）项目。信彭（GXTOP）将为社区支持者提供安全可靠，稳定高效的去中心化金融服务，最后将让世界上的每个人都可以不受时间地域以及中心化机构的影响进行金融活动。至今，大部分的信用管理都是中心化的。一个个人或几个核心人员形成一个组织以及治理理念，在得到受托人支持后最大的弊端是治理的不透明以及投入及管理权的不成正比，同时收益享受以及分配也会最优化。这样的形式直接导致了受托人失去了管理他们资产的直接权利，众筹的资金也面临很高，管理团队未能兑现承诺的风险。为了克服现有金融服务中由中央系统控制以及调节的缺点，信彭（GXTOP）希望前期通过公信链的协议建立一套透明，低访问权限以及高包容性的点对点金融系统。
+
+
+This Privacy Notice (“Notice”) describes the ways GXCpay. (“GXCpay”, “we”, “us”, “our”) collects, uses and protects information. GXCpay services include websites, mobile applications, products, and any other features, technologies, emails from GXChaintop (“Services”). This Notice applies to gxchaintop.org and gxcpay.org and all other sites on which it appears (the “Sites”).
+Our privacy practices may vary among the countries or territories in which we operate to reflect local practices and legal requirements. 
+We may process information from the following types of users:
+1.	Visitors of our Sites;
+2.	GXCpay and GXC wallet holders who have downloaded and installed the app on their mobile device; and
+3.	Payees (e.g., employees, contractors, vendors or exchange customers) who request a payment (“Payout”) via cryptocurrency from GXCpay.
+What kind of information do we collect?
+We collect different kinds of information when users interact with us via web and app. We collect information you choose to provide to us when interacting with our Services. We may also collect information automatically from your devices. 
+How we use cookies
+We may collect information about your activities on our sites via first and third-party cookies, clear GIFs or web beacons, or through other identifiers or technologies, including similar technologies as they may evolve over time. We refer to these technologies collectively as cookies.
+We may allow third parties to use cookies on our sites. The information collected by cookies may be shared with and used by us, by others acting on our behalf, or by third parties subject to their own privacy policies. Information collected by cookies may be used on this site or on other websites or services, including those that may not be operated by us. Other parties may collect personally identifiable information about an individual consumer’s online activities over time and across different websites when a consumer uses our websites or online services
+Changes to this Notice
+We may amend this Notice at any time by posting a revised version on our website. The revised version will be effective at the time we post it. You are responsible for periodically reviewing this Notice.
+Contact Information
+contact@gxcpay.org
+
